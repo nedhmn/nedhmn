@@ -5,7 +5,6 @@
 - [nedhmn.me](https://nedhmn.me) blogs
   - Overnight strategy
   - Short Earnings Strategy
+  - Investors days strategy
   - Scrapegoat project
-  - Clash-of-clans automation project
 - scrapegoat.gg project
-- Clash-of-clans management automation project
