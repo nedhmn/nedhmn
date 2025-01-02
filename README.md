@@ -3,7 +3,6 @@
 ### TODO:
 - r-workspace-template updates
 - py-workspace-template updates
-- scrapegoat project
 - [nedhmn.me](https://nedhmn.me) blogs
   - Overnight strategy
   - Short Earnings Strategy
