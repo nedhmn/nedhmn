@@ -1,3 +1,5 @@
+Hi there 👋
+
 I'm Ned. You can find me at:
 
 - Blog: [nedhermann.com](https://www.nedhermann.com)
